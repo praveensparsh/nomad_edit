@@ -77,12 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image :  src="_include/img/slider-images/mridangam.jpg", title : '<div class="slide-content"> <img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
-											{image :  src="_include/img/slider-images/violin.jpg", title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
-											{image :  src="_include/img/slider-images/image.jpg", title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
-											{image :  src="_include/img/slider-images/nomad_outdoor.jpg", title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
-											{image :  src="_include/img/slider-images/uku.jpg", title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
-											// {image : '_include/img/slider-images/orisai_collage.jpg', title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/orisai_collage.jpg"></div>', thumb : '', url : ''},		  
+											{image : '_include/img/slider-images/image013.jpg', title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/collage.png', title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image02.png', title : '<div class="slide-content"><img class="nomadLogo" src="_include/img/logo_1.png"></div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/orisai.png', title : '<div class="slide-content"></div>', thumb : '', url : ''},  
 									],
 									
 		// Theme Options			   
